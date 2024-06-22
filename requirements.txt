@@ -1,0 +1,9 @@
+xgboost
+scikit-learn
+tushare
+jqdatasdk
+tqdm
+pandas
+gym
+stable_baselines3
+numpy<2
