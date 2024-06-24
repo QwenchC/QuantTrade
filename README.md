@@ -1,4 +1,4 @@
-[**中文简体**](./docs/cn/README.zh-CN.md)
+[**中文简体**](./README.zh-CN.md)
 # QuantTrade
 
 QuantTrade is a comprehensive stock trading strategy project integrating multi-factor analysis, deep reinforcement learning, and GARCH models. This project covers data acquisition, data preprocessing, and model training modules to develop and optimize stock trading strategies.
