@@ -1,6 +1,3 @@
-明白了，我会提供一个更加详细的英文版README.md，以便更好地介绍QuantTrade项目。
-
-```markdown
 # QuantTrade
 
 QuantTrade is a comprehensive stock trading strategy project integrating multi-factor analysis, deep reinforcement learning, and GARCH models. This project covers data acquisition, data preprocessing, and model training modules to develop and optimize stock trading strategies.
@@ -141,6 +138,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-```
-
-This detailed README.md provides comprehensive guidance on understanding and using the QuantTrade project, covering background, features, directory structure, installation steps, usage instructions, dependencies, contribution guidelines, and licensing information. I hope this helps!
